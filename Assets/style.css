@@ -1,0 +1,33 @@
+    body {
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Arial', sans-serif;
+    }
+
+    .atm-box {
+        background: white;
+        padding: 40px;
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+        width: 400px;
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 30px;
+    }
+
+    .display {
+        background: #000;
+        color: #0f0;
+        padding: 20px;
+        text-align: right;
+        font-size: 2rem;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        min-height: 80px;
+    }
