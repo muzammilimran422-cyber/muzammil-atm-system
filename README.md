@@ -17,6 +17,8 @@ This project simulates basic ATM operations through a clean and interactive inte
 
 - HTML5
 - CSS3
+- Bootsrap
+- Jquery
 - JavaScript
 
 ## 🌐 Live Demo
